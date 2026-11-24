@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+datasets
+peft
+trl
+accelerate
+gradio
+numpy
+pandas
